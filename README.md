@@ -2,4 +2,4 @@
 Past lecture projects and labs from CSC216 Programming Concepts - Java
 
 ## Instructor
-Sarah Heckman
+Dr. Sarah Heckman
